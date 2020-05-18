@@ -1,0 +1,2 @@
+module HolygrailHelper
+end
